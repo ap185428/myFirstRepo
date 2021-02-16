@@ -22,6 +22,7 @@ In their simplest form, pull requests are a mechanism for a developer to notify 
 4) Commited the changes <br>
 5) Created pull request to main branch of peer's repo <br>
 <br>
+> This is the example, Ashish has forked and making changes. Now create a PR and let Aastha merge it.
 
 #### In a common Repo
 1) Invite for Repo <br>
