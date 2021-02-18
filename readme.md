@@ -1,3 +1,6 @@
+#Outputs workflow Status
+![Outputs](https://github.com/ap185428/tasks-final/workflows/Outputs/badge.svg)
+
 ## Learning about pull requests
 
 #### What are pull requests ?
