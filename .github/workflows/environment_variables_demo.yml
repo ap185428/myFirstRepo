@@ -10,7 +10,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  weekday_job:
+  coders_job:
     runs-on: ubuntu-latest
     env:
       CODER: Ashish
