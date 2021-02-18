@@ -1,6 +1,9 @@
-# Outputs workflow Status
+# Workflow Status
 
 ![Outputs](https://github.com/ap185428/tasks-final/workflows/Outputs/badge.svg)
+![Environment Variable Demo](https://github.com/ap185428/tasks-final/workflows/Environment%20Variable%20Demo/badge.svg)
+![CI](https://github.com/ap185428/tasks-final/workflows/CI/badge.svg)
+![Manual workflow](https://github.com/ap185428/tasks-final/workflows/Manual%20workflow/badge.svg)
 
 ## Learning about pull requests
 
